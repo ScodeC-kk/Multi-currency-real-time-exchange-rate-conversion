@@ -1,0 +1,21 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #111111;
+        color: white;
+    }
+    .highlights .content{
+        background-color: #35363A;
+        color: white;
+    }
+    #main .content{
+        background-color: #35363A;
+        color: white;
+    }
+    label,input,a,h1, h2, h3, h4, h5, h6 {
+    color: white;
+    }
+    input[type="checkbox"] + label, input[type="radio"] + label{
+    color: white;
+    }
+    
+}
