@@ -1,5 +1,12 @@
 # Multi-currency-real-time-exchange-rate-conversion
 
+Group member:
+
+Sunny
+
+Andy
+
+
 ## Detailed design of the web application
 
 
