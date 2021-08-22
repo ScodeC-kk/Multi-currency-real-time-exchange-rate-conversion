@@ -3,8 +3,7 @@
 ## Detailed design of the web application
 
 
-<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
- ID="1801642353">
+### contentMenu
  <p class=MsoToc1 style='margin-top:11.15pt;tab-stops:right dotted 510.9pt'><!--[if supportFields]><span
  lang=EN-US><span style='mso-element:field-begin'></span>TOC \o &quot;1-2&quot;
  \h \z \u <span style='mso-element:field-separator'></span></span><![endif]--><span
